@@ -1,7 +1,7 @@
 
 ## Friendly Universe
 
-<img src="friendlyUniverse.png" alt="Friendly Universe" width="450"/>
+<img src="imgs/friendlyUniverse.png" alt="Friendly Universe" width="450"/>
 
 
 Friendly Universe is a Qualtrics survey template to anonymously measure the structure of individuals' social networks. Friendly Universe measures networks consisting of nodes, edges, and the goup and closeness of the nodes. This tool is easy to use and can be custromized through Qualtrics and Javascript. 
@@ -19,7 +19,7 @@ Below is an demonstration of how this task works.
 In this section, the task prompts participants to enter the names of their friends/family from different parts of their lives. 
 
 
-<img src="enterNodes.png" alt="Friendly Universe" width="450"/>
+<img src="imgs/enterNodes.png" alt="Friendly Universe" width="450"/>
 
 
 #### Step 2. Delete duplicates
@@ -27,7 +27,7 @@ In this section, the task prompts participants to enter the names of their frien
 In this section, the task prompts participants to go through their friends one by one and delete any duplicated nodes.
 
 
-<img src="duplicates.png" alt="Friendly Universe" width="450"/>
+<img src="imgs/duplicates.png" alt="Friendly Universe" width="450"/>
 
 
 #### Step 3. Closeness
@@ -35,7 +35,7 @@ In this section, the task prompts participants to go through their friends one b
 In this section, the task prompts participants to indicate how emotionally close they are with each person.
 
 
-<img src="closeness.png" alt="Friendly Universe" width="450"/>
+<img src="imgs/closeness.png" alt="Friendly Universe" width="450"/>
 
 
 #### Step 4. Friends of friends
@@ -43,13 +43,13 @@ In this section, the task prompts participants to indicate how emotionally close
 In this section, the task prompts participants to indicate if people in their social network know eacher. 
 
 
-<img src="fof.png" alt="Friendly Universe" width="450"/>
+<img src="imgs/fof.png" alt="Friendly Universe" width="450"/>
 
 ### Data structure
 
 Data from this task will be stored in Qualtrics as [embedded data](https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/embedded-data/)
 
-<img src="data.png" alt="Friendly Universe" width="500"/>
+<img src="imgs/data.png" alt="Friendly Universe" width="500"/>
 
 * nodes: indicate the closeness level of each node. 1 - extremely close; 2 - very close; 3 - close; 4 - somewhat close; 5 - not very close; 6 - not close; 7 - not at all close.
 
@@ -78,5 +78,4 @@ Etienne Jacquot and Annenberg IT provided IT support.
 ### License
 
 Friendly Universe is licensed under [The MIT license](http://opensource.org/licenses/MIT).
-
 
