@@ -4,7 +4,7 @@
 <img src="imgs/friendlyUniverse.png" alt="Friendly Universe" width="450"/>
 
 
-Friendly Universe is a Qualtrics survey template to anonymously measure the structure of individuals' social networks. Friendly Universe measures networks consisting of nodes, edges, and the goup and closeness of the nodes. This tool is easy to use and can be custromized through Qualtrics and Javascript. 
+Friendly Universe is a Qualtrics survey template to anonymously measure the structure of individuals' social networks. Friendly Universe measures the nodes and edges of the network, as well as the group (i.e. family, friends), and the emotional closeness of each node. This tool is easy to use and can be custromized through Qualtrics and Javascript. 
 
 ### To use
 
@@ -47,7 +47,7 @@ In this section, the task prompts participants to indicate if people in their so
 
 ### Data structure
 
-Data from this task will be stored in Qualtrics as [embedded data](https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/embedded-data/)
+Data from this task will be stored in Qualtrics as [embedded data](https://www.qualtrics.com/support/survey-platform/survey-module/survey-flow/standard-elements/embedded-data/).
 
 <img src="imgs/data.png" alt="Friendly Universe" width="500"/>
 
