@@ -1,0 +1,175 @@
+body, select {
+      font-size: 15pt;
+      font-family:  Helvetica;
+    }
+    #mynetwork {
+      position:relative;
+      width: 800px;
+      height: 600px;
+      border: 0px solid lightgray;
+      background-image: url("universe.jpg");
+    }
+    table.legend_table {
+      font-size: 11px;
+      border-width:1px;
+      border-color:#d3d3d3;
+      border-style:solid;
+    }
+    table.legend_table,td {
+      border-width:1px;
+      border-color:#d3d3d3;
+      border-style:solid;
+      padding: 2px;
+    }
+    div.table_content {
+      width:80px;
+      text-align:center;
+    }
+    div.table_description {
+      width:100px;
+    }
+    div.radiusLabel_class{
+    position:absolute;
+      top:0px;
+      left:0px;
+      z-index:299;
+      width:800px;
+      height:600px;
+      border-style:solid;
+      border-width:3px;
+      border-color: #f9f9f9;
+      padding:4px;
+      padding-top: 8px;
+      text-align: center;
+      font-size: 15px;
+      line-height: 18px;
+      font-family: Helvetica;
+      text-align:left;
+	    pointer-events: none;
+	    opacity:1;
+    }
+
+    #operation {
+      font-size:28px;
+    }
+    #network-popUp {
+      display:none;
+      position:absolute;
+      top:350px;
+      left:170px;
+      z-index:299;
+      width:250px;
+      height:110px;
+      background-color: #f9f9f9;a
+      border-style:solid;
+      border-width:3px;
+      border-color: #5394ed;
+      padding: 2px;
+      text-align: center;
+      font-size: 12px;
+      line-height: 15px;
+      font-family:  Helvetica;
+    }
+    .overlay{
+      position:absolute;
+      top:0px;
+      left:0px;
+      z-index:299;
+      width:250px;
+      height:170px;
+      background-color: #f9f9f9;
+      border-style:solid;
+      border-width:3px;
+      border-color: #f9f9f9;
+      padding:4px;
+      padding-top: 8px;
+      text-align: center;
+      font-size: 15px;
+      line-height: 18px;
+      font-family: Helvetica;
+      text-align:left;
+	    pointer-events: none;
+	    opacity:0.75;
+	    display:none;
+    }
+    
+    .overlayButton{
+      pointer-events: all;
+      opacity: 1;
+      font-family:  Helvetica;
+      font-size: 14px;
+      float: right;
+    }
+
+    .buttonsDiv{
+      width:800px;
+      height: 40px;
+    }
+    
+    .buttons{
+      pointer-events: all;
+      opacity: 1;
+      font-size: 16px;
+      font-family:  Helvetica;
+    }
+
+    .deleteButton{
+      pointer-events: all;
+      opacity: 1;
+      font-size: 16px;
+      font-family:  Helvetica;
+      float: right;
+    }
+    
+    .radiusLabel_class{
+      position:absolute;
+      top:0px;
+      left:0px;
+      z-index:299;
+      font-family: Helvetica;
+      pointer-events: none;
+      color: yellow;
+    }
+    
+    .labels{
+      position: absolute;
+      text-align: center;
+      width: 200px;
+      padding-left: -100px;
+      opacity:0.5;
+	    display:none;
+
+    }
+  
+    
+    #label1{
+      bottom: 38px;
+      left: 50px;
+    }
+    #label2{
+      bottom: 38px;
+      left: 150px;
+    }
+    #label3{
+      bottom: 38px;
+      left: 250px;
+    }
+    #label4{
+      bottom: 38px;
+      left: 350px;
+    }
+    #label5{
+      bottom: 38px;
+      left: 450px;
+    }
+    #label6{
+      bottom: 38px;
+      left: 550px;
+    }
+    #label7{
+      bottom: 340px;
+      left: 570px;
+    }
+      
+  
+
