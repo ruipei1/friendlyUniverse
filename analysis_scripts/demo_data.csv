@@ -1,0 +1,54 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q5,Q11,Q13,Q15,Q16,Q17,Q18,nodes,edges,family,friend,texting,f2f,social,groups,networkName
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Before you get started…
+give your universe a name:","1:
+ 
+
+Please enter the names of your family members who you know personally.
+
+ 
+
+If two or more people in your life have the same name, be sure to add a last initial so you don't get them mixed up.
+
+ 
+
+Separate the names using commas (,). For example: Emma, Bob, Mary, Jim, Mike, Angela T, Angela W","2:
+ 
+
+Please enter the names of your best friends. 
+
+
+ 
+
+If two or more people in your life have the same name, be sure to add a last initial so you don't get them mixed up.
+
+ 
+
+Separate the names using commas (,). For example: Emma, Bob, Mary, Jim, Mike, Angela T, Angela W","3:
+ 
+
+Please take out your phone and look at the voice call log. Starting with the most recent call and going backwards, enter the names of everyone you know personally who you have called or received a call from in the last week. 
+If two or more people in your life have the same name, be sure to add a last initial so you don’t get them mixed up.
+
+ 
+
+
+Separate the names using commas (,).  For example: Emma, Bob, Mary, Jim, Mike, Angela T, Angela W","4:
+ 
+
+Please take out your phone and look at the texting (SMS) log. Starting with the most recent text and going backwards, enter the names of everyone you know personally who you have texted or received a text from in the last week. For large group chats, don’t try to list everyone in the group chat; just list the names of the people who have recently sent messages to the chat. 
+If two or more people in your life have the same name, be sure to add a last initial so you don’t get them mixed up.
+Separate the names using commas (,).  For example: Emma, Bob, Mary, Jim, Mike, Angela T, Angela W","5:
+ 
+
+Please enter the names of everyone you know personally who you saw (face to face) in the last week. If two or more people in your life have the same name, be sure to add a last initial so you don’t get them mixed up.
+
+  
+Separate the names using commas (,). For example: Emma, Bob, Mary, Jim, Mike, Angela T, Angela W","6:
+ 
+
+Please enter the names of everyone you have interacted with on social media (i.e. Snapchat, Instagram, Facebook) in the last week. If two or more people in your life have the same name, be sure to add a last initial so you don’t get them mixed up.
+
+ 
+Separate the names using commas (,). For example: Emma, Bob, Mary, Jim, Mike, Angela T, Angela W.",nodes,edges,family,friend,texting,f2f,social,groups,networkName
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID11_TEXT""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID17_TEXT""}","{""ImportId"":""QID18_TEXT""}","{""ImportId"":""nodes""}","{""ImportId"":""edges""}","{""ImportId"":""family""}","{""ImportId"":""friend""}","{""ImportId"":""texting""}","{""ImportId"":""f2f""}","{""ImportId"":""social""}","{""ImportId"":""groups""}","{""ImportId"":""networkName""}"
+2023-03-29 13:47:46,2023-03-29 13:50:21,IP Address,67.161.27.176,100,155,True,2023-03-29 13:50:22,R_PMMLjfRNF5ZnW1z,,,,,37.4967,-122.2665,anonymous,EN,aaa'aaaaaaaaaa,"aaaa,aaaa,aaaaa,aaaa,aaaaa,aaaaaaaaa,aaaaaaaaa","aaaa,aaaa,aaaaa,aaaa,aaaaa,aaaaaaaaa,aaaaaaaaa","aaaa,aaaa,aaaaa,aaaa,aaaaa,aaaaaaaaa,aaaaaaaaa","aaaa,aaaa,aaaaa,aaaa,aaaaa,aaaaaaaaa,aaaaaaaaa","aaaa,aaaa,aaaaa,aaaa,aaaaa,aaaaaaaaa,aaaaaaaaa","aaaa,aaaa,aaaaa,aaaa,aaaaa,aaaaaaaaa,aaaaaaaaa","[{""id"":0,""closeness"":""3""},{""id"":1,""closeness"":""4""},{""id"":2,""closeness"":""6""},{""id"":3,""closeness"":""3""},{""id"":4,""closeness"":""2""},{""id"":5,""closeness"":""5""},{""id"":6,""closeness"":""1""},{""id"":7,""closeness"":""7""},{""id"":8,""closeness"":""4""}]","[{""from"":3,""to"":0},{""from"":6,""to"":1},{""to"":2},{""from"":4,""to"":2},{""from"":6,""to"":3},{""from"":5,""to"":4},{""from"":6,""to"":5},{""from"":1,""to"":6},{""to"":7},{""from"":6,""to"":7},{""from"":5,""to"":8}]"," "," "," "," "," ","[{""id"":0,""group"":1},{""id"":1,""group"":1},{""id"":2,""group"":1},{""id"":3,""group"":1},{""id"":4,""group"":1},{""id"":5,""group"":1},{""id"":6,""group"":1},{""id"":7,""group"":2},{""id"":8,""group"":2},{""id"":9,""group"":2},{""id"":10,""group"":2},{""id"":11,""group"":2},{""id"":12,""group"":2},{""id"":13,""group"":2},{""id"":14,""group"":3},{""id"":15,""group"":3},{""id"":16,""group"":3},{""id"":17,""group"":3},{""id"":18,""group"":3},{""id"":19,""group"":3},{""id"":20,""group"":3},{""id"":21,""group"":4},{""id"":22,""group"":4},{""id"":23,""group"":4},{""id"":24,""group"":4},{""id"":25,""group"":4},{""id"":26,""group"":4},{""id"":27,""group"":4},{""id"":28,""group"":5},{""id"":29,""group"":5},{""id"":30,""group"":5},{""id"":31,""group"":5},{""id"":32,""group"":5},{""id"":33,""group"":5},{""id"":34,""group"":5},{""id"":35,""group"":6},{""id"":36,""group"":6},{""id"":37,""group"":6},{""id"":38,""group"":6},{""id"":39,""group"":6},{""id"":40,""group"":6},{""id"":41,""group"":6}]"," "
